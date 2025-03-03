@@ -3,10 +3,16 @@
 A modern and dynamic music platform built with Next.js, providing users with an immersive experience to explore, stream, and enjoy music seamlessly.
 
 ## Features
+- **Music Streaming** – Play and explore a vast collection of songs.
 - **Responsive UI** – Fully optimized for all devices.
+- **User Authentication** – Secure login and personalized user experience.
+- **Search & Filters** – Quickly find your favorite tracks and artists.
 - **Playlist Management** – Create and manage your own playlists.
 - **Beautiful UI Components** – Enhanced UI/UX with Aceternity UI.
-- **Technology Stack** – Built using **Next.js, Tailwind CSS, and Aceternity UI**.
+- **Technology Stack** – Built using **Next.js, Tailwind CSS, Firebase, Node.js, and Aceternity UI**.
+
+## Project Demo
+🔗 [Live Demo](https://next-music-app-vercel.vercel.app/)
 
 ## Installation & Setup
 1. Clone the repository:
